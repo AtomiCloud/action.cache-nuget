@@ -1,3 +1,15 @@
+## [1.1.0](https://github.com/AtomiCloud/actions.cache-nuget/compare/v1.0.1...v1.1.0) (2025-01-27)
+
+
+### 🐛 Bug Fixes 🐛
+
+* missing prettierrc ([ecb3918](https://github.com/AtomiCloud/actions.cache-nuget/commit/ecb3918bdd66efec72c842fe363e940c2118c55e))
+
+
+### ✨ Features ✨
+
+* upgrade cicd ([d6e85e1](https://github.com/AtomiCloud/actions.cache-nuget/commit/d6e85e1354156fc97a80fc8629518d43379ea726))
+
 ## [1.0.1](https://github.com/AtomiCloud/actions.cache-nuget/compare/v1.0.0...v1.0.1) (2024-02-24)
 
 
